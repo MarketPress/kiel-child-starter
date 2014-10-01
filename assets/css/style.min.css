@@ -1,0 +1,60 @@
+.mp-wrapper > header {
+	border-top: 5px solid #005493;
+}
+
+.mp-wrapper > footer {
+	border-bottom: 5px solid #005493;
+}
+
+.mp-body {
+	border: 0 !important;
+}
+
+.mp-border-top,
+.mp-border-bottom {
+	display: none;
+}
+
+article img {
+	max-height: none !important;
+}
+
+header {
+	position: relative;
+}
+
+header #searchform {
+	right: 0;
+	float: right;
+	position: absolute;
+	margin-right: 100px;
+}
+
+header #searchform label {
+	display: none;
+}
+
+header nav {
+	text-align: left;
+}
+
+header nav ul {
+	margin-left: 90px;
+	margin-right: 330px;
+}
+
+.header-img {
+	display: block;
+	width: 1000px;
+	padding: 0;
+	margin: 0 auto 50px;
+	border-top: 5px solid #005493;
+	border-bottom: 5px solid #005493;
+}
+
+.header-img img {
+	border: 0;
+	padding: 0;
+	margin: 0;
+	display: block;
+}

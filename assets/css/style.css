@@ -1,0 +1,18 @@
+/**
+ * Feature Name:    Main Style for kiel child starter
+ * Version:		    0.1
+ * Author:		    Inpsyde GmbH for MarketPress.com
+ * Author URI:	    http://inpsyde.com/
+ */
+
+body {
+	background: rgba( 30, 115, 190, 0.1 );
+}
+
+.mp-body {
+	border: 0 !important;
+}
+
+#comments {
+	display: none;
+}
