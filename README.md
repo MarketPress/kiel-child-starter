@@ -8,7 +8,7 @@ This is a starter kit for a custom child theme. Child themes in WordPress enable
 This starter kit uses our own theme [Kiel](http://marketpress.com/product/kiel/) as the parent theme. Feel free to use it for your own projects, or hack it and create your own child theme starter kit.
 
 
-Also, as in Kiel and many other themes, minified stylesheets can be loaded by default. In order to load minified versions of stylesheets and scripts, visit functions.php and edit `kiel_child_starter_get_script_suffix()` as documented inline.
+Also, as in Kiel and many other themes, minified stylesheets can be loaded by default. In order to load minified versions of stylesheets and scripts, visit functions.php and set a filter as documented inline.
 
 ## Ressources
 
