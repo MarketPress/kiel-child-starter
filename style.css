@@ -5,7 +5,7 @@
  * Description: 	The basic child theme for kiel
  * Author:      	MarketPress
  * Author URI:  	http://marketpress.com/
- * Version:     	1.0
+ * Version:     	1.1
  * Status:      	Stable
  * Text Domain:		kiel-child-starter
  * Tags:        	translation-ready, theme-options
@@ -13,3 +13,14 @@
  * License URI: 	http://www.gnu.org/licenses/gpl-2.0.txt
  */
 
+body {
+	background: rgba( 30, 115, 190, 0.1 );
+}
+
+.mp-body {
+	border: 0 !important;
+}
+
+#comments {
+	display: none;
+}
