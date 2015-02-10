@@ -15,7 +15,7 @@
 function kiel_child_starter_filter_kiel_get_scripts_add_scripts() {
 
 	// add suffix
-	$suffix = kiel_child_starter_get_script_suffix();
+	$suffix = apply_filters( 'kiel_child_starter_get_script_suffix', '__return_empty_string' );
 
 	// getting the theme-data
 	$theme_data = wp_get_theme();
