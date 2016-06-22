@@ -5,7 +5,7 @@ A child theme starter kit for WordPress.
 ## Description
 This is a starter kit for a custom child theme. Child themes in WordPress enable you to override theme templates and stylesheets with your own customizations in a safe way. No need to touch an original theme file!
 
-This starter kit uses our own theme [Kiel](http://marketpress.com/product/kiel/) as the parent theme. Feel free to use it for your own projects, or hack it and create your own child theme starter kit.
+This starter kit uses our own theme [Kiel](https://marketpress.com/shop/themes/kiel/) as the parent theme. Feel free to use it for your own projects, or hack it and create your own child theme starter kit.
 
 
 Also, as in Kiel and many other themes, minified stylesheets can be loaded by default. In order to load minified versions of stylesheets and scripts, visit functions.php and set a filter as documented inline.
@@ -19,14 +19,17 @@ Also, as in Kiel and many other themes, minified stylesheets can be loaded by de
 
 ## Contributors
 
-* [@inpsyde](https://github.com/inpsyde)
-* [@dasllama](https://github.com/dasllama)
+* [@MarketPress](https://github.com/MarketPress)
 
 **Brought to you by**
 
-[![MarketPress.com](/assets/img/mp-logo.png)](http://marketpress.com)
+[![MarketPress.com](/assets/img/mp-logo.png)](https://marketpress.com)
 
 ## Changelog
+
+### 1.1.1
+
+* fixed license infos
 
 ### 1.1
 

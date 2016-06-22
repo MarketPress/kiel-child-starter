@@ -1,9 +1,6 @@
 <?php
 /**
  * Feature Name:    Some general functions for the kiel child starter
- * Version:		    0.1
- * Author:		    Inpsyde GmbH for MarketPress.com
- * Author URI:	    http://inpsyde.com/
  */
 
 /**

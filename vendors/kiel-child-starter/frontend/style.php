@@ -1,9 +1,6 @@
 <?php
 /**
  * Feature Name:    Style Functions for Kiel-Child-Starter
- * Version:		    0.1
- * Author:		    Inpsyde GmbH for MarketPress.com
- * Author URI:	    http://inpsyde.com/
  */
 
 /**

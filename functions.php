@@ -1,10 +1,7 @@
 <?php
 /**
- * Feature Name:    Functions for the kiel child starter
- * Version:		    0.1
- * Author:		    Inpsyde GmbH for MarketPress.com
- * Author URI:	    http://inpsyde.com/
- */
+* Feature Name:		Functions for the kiel child starter
+*/
 
 
 /**
